@@ -17,9 +17,30 @@
 # phrase="Today is raining"
 # print(phrase[9:7:-1])
 #print the last character of the words
-word=input("Enter any words:")
-print(word[-1:])
-#without using the negative
-lenght=len(word)
-print(word[lenght-1])
-print(word[len(word)-1])
+# word=input("Enter any words:")
+# print(word[-1:])
+# #without using the negative
+# lenght=len(word)
+# print(word[lenght-1])
+# print(word[len(word)-1])
+
+# sentence=input("Enter any sentence:").lower()
+# x=sentence.count("a")
+# y=sentence.count("e")
+# z=sentence.count("i")
+# t=sentence.count("o")
+# a=sentence.count("u")
+# print( x+y+z+t+a,)
+
+# word=input("Enter any word:").lower()
+# word1=word.replace(word[0],"#")
+# result=word[0]+word1[1:]
+# print(result)
+#print=(word1.replace("#",word[0],1))
+
+sentence = input("Enter the sentence:")
+#print(sentence.count("")+1)
+# words = sentence.split()  
+# word_count = len(words)  
+# print("Number of words:", word_count)
+
