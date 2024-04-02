@@ -1,0 +1,1 @@
+num_negative=int(input("how many negative number you want to enter?: "))
